@@ -1,4 +1,4 @@
-# Ebook: A importância da sustentabilidade 🎥
+# Ebook: A importância da sustentabilidade 📙
 
 ## 📒 Descrição
 Projeto com o objetivo de gerar um ebook digital com auxilio das ferramentras IA.
